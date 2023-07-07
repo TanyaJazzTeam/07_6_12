@@ -4,7 +4,7 @@
       "name": "Mecânica",
       "sections": [
         {
-          "name": "Cinemática",
+          "name": "Cinemáticads",
           "complexity": "média",
           "interest": "ótimo",
           "bool": "verdadeiro"
